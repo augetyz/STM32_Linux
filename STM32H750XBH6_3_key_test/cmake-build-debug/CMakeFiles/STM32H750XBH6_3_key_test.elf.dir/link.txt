@@ -1,0 +1,1 @@
+/usr/bin/arm-none-eabi-g++ -g -Wl,-gc-sections,--print-memory-usage,-Map=/home/augety/STM32_Project/STM32H750XBH6_3_key_test/cmake-build-debug/STM32H750XBH6_3_key_test.map -mcpu=cortex-m7 -mthumb -mthumb-interwork -T /home/augety/STM32_Project/STM32H750XBH6_3_key_test/STM32H750XBHX_FLASH.ld @CMakeFiles/STM32H750XBH6_3_key_test.elf.dir/objects1.rsp -o STM32H750XBH6_3_key_test.elf 

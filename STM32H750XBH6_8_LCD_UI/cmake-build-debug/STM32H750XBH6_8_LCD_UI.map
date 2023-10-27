@@ -1,0 +1,1857 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj (__aeabi_fmul)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj (__aeabi_fadd)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj (__aeabi_fdiv)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj (__aeabi_f2uiz)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+                              CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj (__errno)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x70 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_line    0x0000000000000000       0x87 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .debug_str     0x0000000000000000       0x95 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000        0xa CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x0000000000000000        0xa CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000        0xa CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x0000000000000000      0x7af CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000000000      0x1a3 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x0000000000000000      0x3c5 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000000000000000      0x3ca CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x0000000000000000      0x449 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x0000000000000000      0x190 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x0000000000000000       0x48 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x0000000000000000       0xe7 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x0000000000000000       0x64 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x0000000000000000      0x12b CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x0000000000000000      0x260 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x0000000000000000       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x238 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x84 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x2c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000        0xe CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000        0xe CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000        0x8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_ETHInterfaceSelect
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_AnalogSwitchConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableBOOST
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableBOOST
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_CM7BootAddConfig
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_EnableIOSpeedOptimize
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_DisableIOSpeedOptimize
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_CompensationCodeSelect
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SYSCFG_CompensationCodeConfig
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_SetFMCMemorySwappingConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_GetFMCMemorySwappingConfig
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EXTI_EdgeConfig
+                0x0000000000000000       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EXTI_D1_ClearFlag
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EXTI_D1_EventInputConfig
+                0x0000000000000000       0x84 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text.HAL_EXTI_D3_EventInputConfig
+                0x0000000000000000       0x7c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x5c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0x8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text.HAL_GetCurrentCPUID
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000      0x1b4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.DMA_CalcBaseAndBitshift
+                0x0000000000000000       0xb4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.DMA_CheckFifoParam
+                0x0000000000000000       0x92 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXChannelBaseAndMask
+                0x0000000000000000       0xb0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.DMA_CalcDMAMUXRequestGenBaseAndMask
+                0x0000000000000000       0x7c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000      0x3a4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000      0x1d4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000      0x148 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000      0x298 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000      0x340 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000      0x270 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x450 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x738 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0x76 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .rodata.flagBitshiftOffset.0
+                0x0000000000000000        0x8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_info    0x0000000000000000      0xfd3 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000000000      0x298 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_loc     0x0000000000000000      0xe96 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_ranges  0x0000000000000000       0xa8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_line    0x0000000000000000     0x2444 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_str     0x0000000000000000      0xa08 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .debug_frame   0x0000000000000000      0x1fc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.DMA_MultiBufferSetConfig
+                0x0000000000000000       0xa8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart
+                0x0000000000000000      0x218 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x0000000000000000      0x398 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ChangeMemory
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxSync
+                0x0000000000000000       0x70 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ConfigMuxRequestGenerator
+                0x0000000000000000       0x58 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_EnableMuxRequestGenerator
+                0x0000000000000000       0x1e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_DisableMuxRequestGenerator
+                0x0000000000000000       0x1e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MUX_IRQHandler
+                0x0000000000000000       0x5a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_info    0x0000000000000000      0x955 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x207 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_loc     0x0000000000000000      0x7df CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_line    0x0000000000000000      0xbec CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_str     0x0000000000000000      0x83d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .debug_frame   0x0000000000000000      0x104 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000      0x144 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000      0x108 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xec CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x12 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x2c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_info    0x0000000000000000      0xa6a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_loc     0x0000000000000000      0xde3 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x8bd CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000      0x557 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .debug_frame   0x0000000000000000      0x100 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x100 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x84 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.FLASH_OB_WaitForLastOperation
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.FLASH_CRC_WaitForLastOperation
+                0x0000000000000000       0x74 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000       0x2c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .bss.pFlash    0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_info    0x0000000000000000      0xa78 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_abbrev  0x0000000000000000      0x289 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_loc     0x0000000000000000      0x72d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_aranges
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_ranges  0x0000000000000000       0x78 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x8ed CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000      0x735 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .debug_frame   0x0000000000000000      0x148 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDPConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_PCROPConfig
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetPCROP
+                0x0000000000000000       0x40 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BootAddConfig
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBootAdd
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_SecureAreaConfig
+                0x0000000000000000       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetSecureArea
+                0x0000000000000000       0x40 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_CRC_AddSector
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_CRC_SelectAddress
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xcc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x6e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Unlock_Bank1
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Lock_Bank1
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_ComputeCRC
+                0x0000000000000000       0xb4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xc8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_info    0x0000000000000000      0xfa5 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x273 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_loc     0x0000000000000000      0x906 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0xe8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_ranges  0x0000000000000000       0xd8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0xb38 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000      0x9bf CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .debug_frame   0x0000000000000000      0x214 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000      0x150 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000        0xe CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000       0x12 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x1e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_Take
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_FastTake
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_IsSemTaken
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_Release
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_ReleaseAll
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_SetClearKey
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_GetClearKey
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_ActivateNotification
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_DeactivateNotification
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_FreeCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text.HAL_HSEM_IRQHandler
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_info    0x0000000000000000      0x3d1 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e7 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_loc     0x0000000000000000      0x117 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_aranges
+                0x0000000000000000       0x70 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_ranges  0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_line    0x0000000000000000      0x31b CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_str     0x0000000000000000      0x3b5 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .debug_frame   0x0000000000000000       0xc8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Flush_TXDR
+                0x0000000000000000       0x22 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_TransferConfig
+                0x0000000000000000       0x3a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Enable_IRQ
+                0x0000000000000000       0x80 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Disable_IRQ
+                0x0000000000000000       0x70 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ConvertOtherXferOptions
+                0x0000000000000000       0x1e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_IsErrorOccurred
+                0x0000000000000000      0x118 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_WaitOnTXISFlagUntilTimeout
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x0000000000000000       0x6e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryWrite
+                0x0000000000000000       0x7c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryRead
+                0x0000000000000000       0x78 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPFlagUntilTimeout
+                0x0000000000000000       0x5e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_WaitOnRXNEFlagUntilTimeout
+                0x0000000000000000       0xba CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspInit
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Init
+                0x0000000000000000       0xbc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_DeInit
+                0x0000000000000000       0x32 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit
+                0x0000000000000000      0x17c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive
+                0x0000000000000000      0x17c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit
+                0x0000000000000000      0x1d2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive
+                0x0000000000000000      0x184 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_IT
+                0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_IT
+                0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x0000000000000000       0x8c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_IT
+                0x0000000000000000       0x64 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x0000000000000000      0x154 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_DMA
+                0x0000000000000000      0x150 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x0000000000000000      0x140 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x0000000000000000       0xf4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write
+                0x0000000000000000      0x1aa CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read
+                0x0000000000000000      0x1b0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_IT
+                0x0000000000000000       0xb8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_IT
+                0x0000000000000000       0xb4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_DMA
+                0x0000000000000000      0x134 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_DMA
+                0x0000000000000000      0x134 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_IsDeviceReady
+                0x0000000000000000      0x16c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_IT
+                0x0000000000000000       0xb4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_DMA
+                0x0000000000000000      0x174 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_IT
+                0x0000000000000000       0xb4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_DMA
+                0x0000000000000000      0x174 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_IT
+                0x0000000000000000       0xe4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_DMA
+                0x0000000000000000      0x1ac CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_IT
+                0x0000000000000000       0xe4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_DMA
+                0x0000000000000000      0x1ac CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_EnableListen_IT
+                0x0000000000000000       0x2c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_DisableListen_IT
+                0x0000000000000000       0x3a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Abort_IT
+                0x0000000000000000       0x84 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_EV_IRQHandler
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterTxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITMasterSeqCplt
+                0x0000000000000000       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITSlaveSeqCplt
+                0x0000000000000000       0x82 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMASlaveTransmitCplt
+                0x0000000000000000       0x22 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMASlaveReceiveCplt
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_AddrCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITAddrCplt
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_ListenCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITListenCplt
+                0x0000000000000000       0x68 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemTxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemRxCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_ErrorCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_AbortCpltCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_TreatErrorCallback
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITError
+                0x0000000000000000      0x130 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITSlaveCplt
+                0x0000000000000000      0x244 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Slave_ISR_IT
+                0x0000000000000000      0x150 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_ITMasterCplt
+                0x0000000000000000      0x12e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Master_ISR_IT
+                0x0000000000000000      0x180 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Slave_ISR_DMA
+                0x0000000000000000      0x220 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Master_ISR_DMA
+                0x0000000000000000      0x142 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMAError
+                0x0000000000000000      0x138 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMAMasterTransmitCplt
+                0x0000000000000000       0x5a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMAMasterReceiveCplt
+                0x0000000000000000       0x5a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Mem_ISR_IT
+                0x0000000000000000      0x188 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_Mem_ISR_DMA
+                0x0000000000000000      0x194 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_ER_IRQHandler
+                0x0000000000000000       0x6a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.I2C_DMAAbort
+                0x0000000000000000       0x1a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetState
+                0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetMode
+                0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetError
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_info    0x0000000000000000     0x43e6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_abbrev  0x0000000000000000      0x252 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_loc     0x0000000000000000     0x4c8d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_aranges
+                0x0000000000000000      0x2a0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_ranges  0x0000000000000000      0x290 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_line    0x0000000000000000     0x514c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_str     0x0000000000000000     0x11bb CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_frame   0x0000000000000000      0x984 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_ConfigAnalogFilter
+                0x0000000000000000       0x5c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_ConfigDigitalFilter
+                0x0000000000000000       0x58 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_EnableWakeUp
+                0x0000000000000000       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_DisableWakeUp
+                0x0000000000000000       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_EnableFastModePlus
+                0x0000000000000000       0x30 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text.HAL_I2CEx_DisableFastModePlus
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_info    0x0000000000000000      0xe4c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_loc     0x0000000000000000      0x202 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x48 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_line    0x0000000000000000      0x4c2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_str     0x0000000000000000      0xb87 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_frame   0x0000000000000000       0x80 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.MDMA_SetConfig
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.MDMA_Init
+                0x0000000000000000       0xb8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_Init
+                0x0000000000000000       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_DeInit
+                0x0000000000000000       0x56 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_ConfigPostRequestMask
+                0x0000000000000000       0x66 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_RegisterCallback
+                0x0000000000000000       0x64 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_UnRegisterCallback
+                0x0000000000000000       0x76 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_LinkedList_CreateNode
+                0x0000000000000000      0x10e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_LinkedList_AddNode
+                0x0000000000000000       0xe8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_LinkedList_RemoveNode
+                0x0000000000000000       0xd2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_LinkedList_EnableCircularMode
+                0x0000000000000000       0x56 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_LinkedList_DisableCircularMode
+                0x0000000000000000       0x52 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_Start
+                0x0000000000000000       0x78 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_Start_IT
+                0x0000000000000000       0xac CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_Abort
+                0x0000000000000000       0x7c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_Abort_IT
+                0x0000000000000000       0x2c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_PollForTransfer
+                0x0000000000000000      0x122 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_GenerateSWRequest
+                0x0000000000000000       0x40 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_IRQHandler
+                0x0000000000000000      0x1b4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_GetState
+                0x0000000000000000        0x6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text.HAL_MDMA_GetError
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_info    0x0000000000000000      0xead CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_abbrev  0x0000000000000000      0x23a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_loc     0x0000000000000000     0x11a3 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_aranges
+                0x0000000000000000       0xc0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_ranges  0x0000000000000000       0xb0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_line    0x0000000000000000     0x1489 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_str     0x0000000000000000      0xa6a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .debug_frame   0x0000000000000000      0x264 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x4c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_info    0x0000000000000000      0x96c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x189 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_loc     0x0000000000000000       0x57 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x90 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x469 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000      0x652 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x128 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetSupplyConfig
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x0000000000000000       0xd4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlStopModeVoltageScaling
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetStopModeVoltageRange
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTOPMode
+                0x0000000000000000       0x68 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ClearPendingEvent
+                0x0000000000000000        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnterSTANDBYMode
+                0x0000000000000000       0x40 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigD3Domain
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableWakeUpPin
+                0x0000000000000000       0xa8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableWakeUpPin
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetWakeupFlag
+                0x0000000000000000        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ClearWakeupFlag
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP1_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP2_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP3_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP4_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP5_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WKUP6_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_WAKEUP_PIN_IRQHandler
+                0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUSBReg
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUSBReg
+                0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableUSBVoltageDetector
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableUSBVoltageDetector
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableMonitoring
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableMonitoring
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetTemperatureLevel
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVBATLevel
+                0x0000000000000000       0x1c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ConfigAVD
+                0x0000000000000000       0x98 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableAVD
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableAVD
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_AVDCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_PVD_AVD_IRQHandler
+                0x0000000000000000       0x64 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000      0x1cc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0xa4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000       0x44 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000      0x154 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.RCCEx_PLL2_Config
+                0x0000000000000000      0x10c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.RCCEx_PLL3_Config
+                0x0000000000000000      0x10c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0xa8c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000      0x1f4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetD1PCLK1Freq
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetD3PCLK1Freq
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPLL2ClockFreq
+                0x0000000000000000      0x234 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPLL3ClockFreq
+                0x0000000000000000      0x234 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPLL1ClockFreq
+                0x0000000000000000      0x234 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x6d0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetD1SysClockFreq
+                0x0000000000000000       0x44 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisableLSECSS
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x0000000000000000       0x30 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_WakeUpStopCLKConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_KerWakeUpStopCLKConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_WWDGxSysResetConfig
+                0x0000000000000000       0x14 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSConfig
+                0x0000000000000000       0x74 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x0000000000000000       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x0000000000000000       0xac CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x0000000000000000       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x0000000000000000        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000000000000000     0x2010 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x285 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_loc     0x0000000000000000     0x1fbe CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0xf8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x0000000000000000       0xe8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000     0x1f31 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000      0xf99 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000000000      0x284 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_info    0x0000000000000000       0x80 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_abbrev  0x0000000000000000       0x26 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_line    0x0000000000000000       0x1d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000      0x212 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000000000       0x80 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000000000       0x26 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000000000       0x1d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000      0x215 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+ .text          0x0000000000000000      0x168 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_line    0x0000000000000000       0xd4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_str     0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_mulsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_info    0x0000000000000000      0x914 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000000000      0x1be /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_line    0x0000000000000000      0x109 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_str     0x0000000000000000      0x564 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-errno.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x969 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x20c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x179 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x585 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xb0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000090000000 0x0000000000800000 xr
+DTCMRAM          0x0000000020000000 0x0000000000020000 xrw
+RAM_D1           0x0000000024000000 0x0000000000080000 xrw
+RAM_D2           0x0000000030000000 0x0000000000048000 xrw
+RAM_D3           0x0000000038000000 0x0000000000010000 xrw
+ITCMRAM          0x0000000000000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_exti.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_hsem.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mdma.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj
+LOAD CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000024080000                _estack = (ORIGIN (RAM_D1) + LENGTH (RAM_D1))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000090000000      0x298
+                0x0000000090000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000090000000      0x298 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+                0x0000000090000000                g_pfnVectors
+                0x0000000090000298                . = ALIGN (0x4)
+
+.text           0x0000000090000298     0x19e8
+                0x0000000090000298                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000090000298       0x88 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000090000320      0x21c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+                0x0000000090000320                __aeabi_frsub
+                0x0000000090000328                __subsf3
+                0x0000000090000328                __aeabi_fsub
+                0x000000009000032c                __aeabi_fadd
+                0x000000009000032c                __addsf3
+                0x000000009000048c                __aeabi_ui2f
+                0x000000009000048c                __floatunsisf
+                0x0000000090000494                __aeabi_i2f
+                0x0000000090000494                __floatsisf
+                0x00000000900004b0                __floatundisf
+                0x00000000900004b0                __aeabi_ul2f
+                0x00000000900004c0                __floatdisf
+                0x00000000900004c0                __aeabi_l2f
+ .text          0x000000009000053c      0x2a0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+                0x000000009000053c                __mulsf3
+                0x000000009000053c                __aeabi_fmul
+                0x00000000900006a4                __divsf3
+                0x00000000900006a4                __aeabi_fdiv
+ .text          0x00000000900007dc       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+                0x00000000900007dc                __aeabi_f2uiz
+                0x00000000900007dc                __fixunssfsi
+ .text          0x000000009000081c        0xc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                0x000000009000081c                atexit
+ .text          0x0000000090000828       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                0x0000000090000828                __libc_fini_array
+ .text          0x0000000090000854       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                0x0000000090000854                __libc_init_array
+ .text          0x000000009000089c       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                0x000000009000089c                memset
+ .text          0x0000000090000940       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                0x0000000090000940                __register_exitproc
+ *(.text*)
+ .text.MX_GPIO_Init
+                0x00000000900009a8       0x74 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+                0x00000000900009a8                MX_GPIO_Init
+ .text.Error_Handler
+                0x0000000090000a1c        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+                0x0000000090000a1c                Error_Handler
+ .text.SystemClock_Config
+                0x0000000090000a20      0x114 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+                0x0000000090000a20                SystemClock_Config
+ .text.main     0x0000000090000b34       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+                0x0000000090000b34                main
+ .text.HAL_MspInit
+                0x0000000090000b58       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                0x0000000090000b58                HAL_MspInit
+ .text.NMI_Handler
+                0x0000000090000b7c        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b7c                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000090000b7e        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b7e                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000090000b80        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b80                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000090000b82        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b82                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000090000b84        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b84                UsageFault_Handler
+ .text.SVC_Handler
+                0x0000000090000b86        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b86                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000090000b88        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b88                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000090000b8a        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b8a                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000090000b8c        0x8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                0x0000000090000b8c                SysTick_Handler
+ .text.SystemInit
+                0x0000000090000b94       0xc8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0000000090000b94                SystemInit
+ .text.Reset_Handler
+                0x0000000090000c5c       0x50 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+                0x0000000090000c5c                Reset_Handler
+ .text.Default_Handler
+                0x0000000090000cac        0x2 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+                0x0000000090000cac                RTC_Alarm_IRQHandler
+                0x0000000090000cac                HASH_RNG_IRQHandler
+                0x0000000090000cac                EXTI2_IRQHandler
+                0x0000000090000cac                TIM8_CC_IRQHandler
+                0x0000000090000cac                HRTIM1_Master_IRQHandler
+                0x0000000090000cac                UART8_IRQHandler
+                0x0000000090000cac                SPI4_IRQHandler
+                0x0000000090000cac                TIM1_CC_IRQHandler
+                0x0000000090000cac                BDMA_Channel6_IRQHandler
+                0x0000000090000cac                DMA2_Stream5_IRQHandler
+                0x0000000090000cac                HRTIM1_FLT_IRQHandler
+                0x0000000090000cac                JPEG_IRQHandler
+                0x0000000090000cac                DMA1_Stream5_IRQHandler
+                0x0000000090000cac                BDMA_Channel1_IRQHandler
+                0x0000000090000cac                HRTIM1_TIMD_IRQHandler
+                0x0000000090000cac                TAMP_STAMP_IRQHandler
+                0x0000000090000cac                EXTI3_IRQHandler
+                0x0000000090000cac                LPTIM4_IRQHandler
+                0x0000000090000cac                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000090000cac                LPTIM2_IRQHandler
+                0x0000000090000cac                DFSDM1_FLT1_IRQHandler
+                0x0000000090000cac                DMAMUX2_OVR_IRQHandler
+                0x0000000090000cac                TIM8_UP_TIM13_IRQHandler
+                0x0000000090000cac                I2C3_ER_IRQHandler
+                0x0000000090000cac                DFSDM1_FLT2_IRQHandler
+                0x0000000090000cac                MDMA_IRQHandler
+                0x0000000090000cac                LPTIM3_IRQHandler
+                0x0000000090000cac                HSEM1_IRQHandler
+                0x0000000090000cac                EXTI0_IRQHandler
+                0x0000000090000cac                I2C2_EV_IRQHandler
+                0x0000000090000cac                DMA1_Stream2_IRQHandler
+                0x0000000090000cac                FPU_IRQHandler
+                0x0000000090000cac                OTG_HS_WKUP_IRQHandler
+                0x0000000090000cac                FDCAN1_IT1_IRQHandler
+                0x0000000090000cac                LTDC_ER_IRQHandler
+                0x0000000090000cac                DMA2_Stream2_IRQHandler
+                0x0000000090000cac                HRTIM1_TIME_IRQHandler
+                0x0000000090000cac                SPI1_IRQHandler
+                0x0000000090000cac                TIM6_DAC_IRQHandler
+                0x0000000090000cac                DCMI_IRQHandler
+                0x0000000090000cac                HRTIM1_TIMC_IRQHandler
+                0x0000000090000cac                DMA2_Stream3_IRQHandler
+                0x0000000090000cac                SAI2_IRQHandler
+                0x0000000090000cac                DFSDM1_FLT3_IRQHandler
+                0x0000000090000cac                USART6_IRQHandler
+                0x0000000090000cac                TIM17_IRQHandler
+                0x0000000090000cac                USART3_IRQHandler
+                0x0000000090000cac                BDMA_Channel7_IRQHandler
+                0x0000000090000cac                CRYP_IRQHandler
+                0x0000000090000cac                LPTIM5_IRQHandler
+                0x0000000090000cac                UART5_IRQHandler
+                0x0000000090000cac                ADC3_IRQHandler
+                0x0000000090000cac                DMA2_Stream0_IRQHandler
+                0x0000000090000cac                TIM4_IRQHandler
+                0x0000000090000cac                BDMA_Channel2_IRQHandler
+                0x0000000090000cac                QUADSPI_IRQHandler
+                0x0000000090000cac                I2C1_EV_IRQHandler
+                0x0000000090000cac                DMA1_Stream6_IRQHandler
+                0x0000000090000cac                DMAMUX1_OVR_IRQHandler
+                0x0000000090000cac                DMA1_Stream1_IRQHandler
+                0x0000000090000cac                TIM16_IRQHandler
+                0x0000000090000cac                UART4_IRQHandler
+                0x0000000090000cac                BDMA_Channel5_IRQHandler
+                0x0000000090000cac                TIM3_IRQHandler
+                0x0000000090000cac                RCC_IRQHandler
+                0x0000000090000cac                TIM8_BRK_TIM12_IRQHandler
+                0x0000000090000cac                TIM1_TRG_COM_IRQHandler
+                0x0000000090000cac                Default_Handler
+                0x0000000090000cac                ECC_IRQHandler
+                0x0000000090000cac                CEC_IRQHandler
+                0x0000000090000cac                EXTI15_10_IRQHandler
+                0x0000000090000cac                BDMA_Channel0_IRQHandler
+                0x0000000090000cac                ADC_IRQHandler
+                0x0000000090000cac                DMA1_Stream7_IRQHandler
+                0x0000000090000cac                HRTIM1_TIMA_IRQHandler
+                0x0000000090000cac                SPI5_IRQHandler
+                0x0000000090000cac                TIM7_IRQHandler
+                0x0000000090000cac                SDMMC1_IRQHandler
+                0x0000000090000cac                TIM5_IRQHandler
+                0x0000000090000cac                DMA2_Stream7_IRQHandler
+                0x0000000090000cac                TIM15_IRQHandler
+                0x0000000090000cac                PVD_AVD_IRQHandler
+                0x0000000090000cac                I2C3_EV_IRQHandler
+                0x0000000090000cac                EXTI9_5_IRQHandler
+                0x0000000090000cac                RTC_WKUP_IRQHandler
+                0x0000000090000cac                LTDC_IRQHandler
+                0x0000000090000cac                SAI3_IRQHandler
+                0x0000000090000cac                ETH_WKUP_IRQHandler
+                0x0000000090000cac                SPDIF_RX_IRQHandler
+                0x0000000090000cac                SPI2_IRQHandler
+                0x0000000090000cac                OTG_HS_EP1_IN_IRQHandler
+                0x0000000090000cac                DMA1_Stream0_IRQHandler
+                0x0000000090000cac                CRS_IRQHandler
+                0x0000000090000cac                EXTI4_IRQHandler
+                0x0000000090000cac                HRTIM1_TIMB_IRQHandler
+                0x0000000090000cac                FDCAN2_IT1_IRQHandler
+                0x0000000090000cac                ETH_IRQHandler
+                0x0000000090000cac                TIM1_UP_IRQHandler
+                0x0000000090000cac                BDMA_Channel4_IRQHandler
+                0x0000000090000cac                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000090000cac                WWDG_IRQHandler
+                0x0000000090000cac                SPI6_IRQHandler
+                0x0000000090000cac                MDIOS_IRQHandler
+                0x0000000090000cac                I2C4_EV_IRQHandler
+                0x0000000090000cac                FDCAN2_IT0_IRQHandler
+                0x0000000090000cac                LPUART1_IRQHandler
+                0x0000000090000cac                FDCAN1_IT0_IRQHandler
+                0x0000000090000cac                TIM2_IRQHandler
+                0x0000000090000cac                OTG_FS_WKUP_IRQHandler
+                0x0000000090000cac                OTG_HS_IRQHandler
+                0x0000000090000cac                DMA2D_IRQHandler
+                0x0000000090000cac                TIM1_BRK_IRQHandler
+                0x0000000090000cac                EXTI1_IRQHandler
+                0x0000000090000cac                SDMMC2_IRQHandler
+                0x0000000090000cac                OTG_FS_EP1_OUT_IRQHandler
+                0x0000000090000cac                BDMA_Channel3_IRQHandler
+                0x0000000090000cac                UART7_IRQHandler
+                0x0000000090000cac                MDIOS_WKUP_IRQHandler
+                0x0000000090000cac                USART2_IRQHandler
+                0x0000000090000cac                DFSDM1_FLT0_IRQHandler
+                0x0000000090000cac                SAI4_IRQHandler
+                0x0000000090000cac                I2C2_ER_IRQHandler
+                0x0000000090000cac                DMA2_Stream1_IRQHandler
+                0x0000000090000cac                FLASH_IRQHandler
+                0x0000000090000cac                DMA2_Stream4_IRQHandler
+                0x0000000090000cac                USART1_IRQHandler
+                0x0000000090000cac                OTG_FS_IRQHandler
+                0x0000000090000cac                SPI3_IRQHandler
+                0x0000000090000cac                WAKEUP_PIN_IRQHandler
+                0x0000000090000cac                DMA1_Stream4_IRQHandler
+                0x0000000090000cac                OTG_FS_EP1_IN_IRQHandler
+                0x0000000090000cac                I2C1_ER_IRQHandler
+                0x0000000090000cac                FMC_IRQHandler
+                0x0000000090000cac                FDCAN_CAL_IRQHandler
+                0x0000000090000cac                SWPMI1_IRQHandler
+                0x0000000090000cac                COMP1_IRQHandler
+                0x0000000090000cac                LPTIM1_IRQHandler
+                0x0000000090000cac                I2C4_ER_IRQHandler
+                0x0000000090000cac                DMA2_Stream6_IRQHandler
+                0x0000000090000cac                SAI1_IRQHandler
+                0x0000000090000cac                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000090000cae        0x2 
+ .text.HAL_InitTick
+                0x0000000090000cb0       0x50 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000cb0                HAL_InitTick
+ .text.HAL_Init
+                0x0000000090000d00       0x5c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000d00                HAL_Init
+ .text.HAL_IncTick
+                0x0000000090000d5c       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000d5c                HAL_IncTick
+ .text.HAL_GetTick
+                0x0000000090000d74        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000d74                HAL_GetTick
+ .text.HAL_Delay
+                0x0000000090000d80       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000d80                HAL_Delay
+ .text.HAL_GetREVID
+                0x0000000090000da8        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000090000da8                HAL_GetREVID
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0000000090000db4       0x24 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x0000000090000db4                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000090000dd8       0x6c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x0000000090000dd8                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0000000090000e44       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                0x0000000090000e44                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x0000000090000e6c      0x228 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x0000000090000e6c                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x0000000090001094        0xc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                0x0000000090001094                HAL_GPIO_WritePin
+ .text.HAL_PWREx_ConfigSupply
+                0x00000000900010a0       0x54 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                0x00000000900010a0                HAL_PWREx_ConfigSupply
+ .text.HAL_RCC_OscConfig
+                0x00000000900010f4      0x6b4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x00000000900010f4                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000900017a8      0x218 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x00000000900017a8                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x00000000900019c0      0x294 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                0x00000000900019c0                HAL_RCC_ClockConfig
+ .text.startup  0x0000000090001c54       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ *(.glue_7)
+ .glue_7        0x0000000090001c68        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000090001c68        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000090001c68        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000090001c68        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x0000000090001c68                _init
+ .init          0x0000000090001c6c        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000090001c74        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x0000000090001c74                _fini
+ .fini          0x0000000090001c78        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000090001c80                . = ALIGN (0x4)
+                0x0000000090001c80                _etext = .
+
+.vfp11_veneer   0x0000000090001c80        0x0
+ .vfp11_veneer  0x0000000090001c80        0x0 linker stubs
+
+.v4_bx          0x0000000090001c80        0x0
+ .v4_bx         0x0000000090001c80        0x0 linker stubs
+
+.iplt           0x0000000090001c80        0x0
+ .iplt          0x0000000090001c80        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x0000000090001c80       0x14
+                0x0000000090001c80                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000090001c80        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000090001c80                _global_impure_ptr
+ *(.rodata*)
+ .rodata.D1CorePrescTable
+                0x0000000090001c84       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0000000090001c84                D1CorePrescTable
+                0x0000000090001c94                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000090001c94        0x0
+ .rel.iplt      0x0000000090001c94        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000090001c94        0x0
+                0x0000000090001c94                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000090001c94                __exidx_end = .
+
+.preinit_array  0x0000000090001c94        0x0
+                0x0000000090001c94                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000090001c94                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000090001c94        0x8
+                0x0000000090001c94                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000090001c94        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0000000090001c98        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000090001c9c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000090001c9c        0x4
+                0x0000000090001c9c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000090001c9c        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000090001ca0                PROVIDE (__fini_array_end = .)
+                0x0000000090001ca0                _sidata = LOADADDR (.data)
+
+.data           0x0000000024000000      0x440 load address 0x0000000090001ca0
+                0x0000000024000000                . = ALIGN (0x4)
+                0x0000000024000000                _sdata = .
+ *(.data)
+ .data          0x0000000024000000      0x430 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                0x0000000024000000                _impure_ptr
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000024000430        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0000000024000430                SystemCoreClock
+ .data.SystemD2Clock
+                0x0000000024000434        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+                0x0000000024000434                SystemD2Clock
+ .data.uwTickFreq
+                0x0000000024000438        0x1 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x0000000024000438                uwTickFreq
+ *fill*         0x0000000024000439        0x3 
+ .data.uwTickPrio
+                0x000000002400043c        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x000000002400043c                uwTickPrio
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x0000000024000440                . = ALIGN (0x4)
+                0x0000000024000440                _edata = .
+
+.tm_clone_table
+                0x0000000024000440        0x0 load address 0x00000000900020e0
+ .tm_clone_table
+                0x0000000024000440        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x0000000024000440        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+
+.igot.plt       0x0000000024000440        0x0 load address 0x00000000900020e0
+ .igot.plt      0x0000000024000440        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000000024000440                . = ALIGN (0x4)
+
+.bss            0x0000000024000440       0x20 load address 0x00000000900020e0
+                0x0000000024000440                _sbss = .
+                0x0000000024000440                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000024000440       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x000000002400045c        0x4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                0x000000002400045c                uwTick
+ *(COMMON)
+                0x0000000024000460                . = ALIGN (0x4)
+                0x0000000024000460                _ebss = .
+                0x0000000024000460                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000024000460      0x600 load address 0x00000000900020e0
+                0x0000000024000460                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x0000000024000460                PROVIDE (_end = .)
+                0x0000000024000660                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000024000460      0x200 
+                0x0000000024000a60                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000024000660      0x400 
+                0x0000000024000a60                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000000000007a       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x00000000000000a8       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .ARM.attributes
+                0x00000000000000d6       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .ARM.attributes
+                0x0000000000000104       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .ARM.attributes
+                0x0000000000000132       0x21 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .ARM.attributes
+                0x0000000000000153       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .ARM.attributes
+                0x0000000000000181       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000000000001af       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000000000001dd       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x000000000000020b       0x2e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x0000000000000239       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000257       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000275       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0000000000000293       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000002c1       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000002ef       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000031d       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000034b       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000379       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000003a7       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000003d5       0x2e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000403       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(STM32H750XBH6_8_LCD_UI.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+
+.debug_info     0x0000000000000000     0xa592
+ .debug_info    0x0000000000000000      0x641 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x0000000000000641      0xba4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00000000000011e5      0x494 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_info    0x0000000000001679      0x145 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_info    0x00000000000017be      0xe77 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_info    0x0000000000002635       0x22 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .debug_info    0x0000000000002657     0x168e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_info    0x0000000000003ce5     0x13cc CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_info    0x00000000000050b1      0xd4e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_info    0x0000000000005dff     0x1216 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_info    0x0000000000007015     0x13a1 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_info    0x00000000000083b6       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x00000000000083dc       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0000000000008402       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_info    0x0000000000008428      0x100 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000008528      0x102 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_info    0x000000000000862a      0x92a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000008f54      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_info    0x000000000000906e      0x137 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_info    0x00000000000091a5      0x9b0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000009b55      0xa3d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_abbrev   0x0000000000000000     0x1d69
+ .debug_abbrev  0x0000000000000000      0x181 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x0000000000000181      0x1f3 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000000000000374       0xd7 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_abbrev  0x000000000000044b       0x7e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_abbrev  0x00000000000004c9      0x162 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_abbrev  0x000000000000062b       0x12 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .debug_abbrev  0x000000000000063d      0x264 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_abbrev  0x00000000000008a1      0x37d CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000000000000c1e      0x239 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000000e57      0x29b CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00000000000010f2      0x28c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_abbrev  0x000000000000137e       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x0000000000001392       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00000000000013a6       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_abbrev  0x00000000000013ba       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000001471       0xcf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000001540      0x1b8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000016f8       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_abbrev  0x00000000000017c4       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001878      0x23f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000001ab7      0x2b2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_aranges  0x0000000000000000      0x6e0
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x0000000000000020       0x30 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x0000000000000050       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_aranges
+                0x0000000000000070       0x60 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_aranges
+                0x00000000000000d0       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_aranges
+                0x00000000000000f8       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .debug_aranges
+                0x0000000000000120      0x198 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_aranges
+                0x00000000000002b8       0xb0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_aranges
+                0x0000000000000368       0x58 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000000000003c0      0x158 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x0000000000000518       0x88 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000000000005a0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_aranges
+                0x0000000000000600       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000620       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000640       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000658       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000678       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000698       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000000006b8       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_ranges   0x0000000000000000      0x678
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x0000000000000010       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x0000000000000030       0x10 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_ranges  0x0000000000000040       0x50 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_ranges  0x0000000000000090       0x18 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_ranges  0x00000000000000a8       0x20 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .debug_ranges  0x00000000000000c8      0x188 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_ranges  0x0000000000000250      0x100 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_ranges  0x0000000000000350       0x48 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_ranges  0x0000000000000398      0x1a8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x0000000000000540       0xe8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_ranges  0x0000000000000628       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_line     0x0000000000000000     0x4ec4
+ .debug_line    0x0000000000000000      0x1bd CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000000000001bd      0x40b CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000000000005c8      0x130 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_line    0x00000000000006f8      0x1db CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_line    0x00000000000008d3      0x404 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_line    0x0000000000000cd7       0xb7 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+ .debug_line    0x0000000000000d8e      0x8fb CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x0000000000001689      0x7c6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x0000000000001e4f      0x6c0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x000000000000250f      0xabb CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000000000002fca     0x1277 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x0000000000004241      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x000000000000435b      0x13a /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x0000000000004495       0x75 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_line    0x000000000000450a       0xc0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_line    0x00000000000045ca       0xed /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_line    0x00000000000046b7       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+ .debug_line    0x000000000000479b      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_line    0x00000000000048d3      0x1bf /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_line    0x0000000000004a92      0x19e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000004c30      0x294 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_str      0x0000000000000000     0x3287
+ .debug_str     0x0000000000000000      0x490 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+                                        0x4df (size before relaxing)
+ .debug_str     0x0000000000000490      0x313 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+                                        0x745 (size before relaxing)
+ .debug_str     0x00000000000007a3       0x5b CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+                                        0x439 (size before relaxing)
+ .debug_str     0x00000000000007fe       0xe6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+                                        0x291 (size before relaxing)
+ .debug_str     0x00000000000008e4      0x3bd CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+                                        0x7ae (size before relaxing)
+ .debug_str     0x0000000000000ca1       0x63 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Startup/startup_stm32h750xbhx.s.obj
+                                         0xa7 (size before relaxing)
+ .debug_str     0x0000000000000d04      0xf7c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+                                       0x14fc (size before relaxing)
+ .debug_str     0x0000000000001c80      0x49a CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+                                       0x108a (size before relaxing)
+ .debug_str     0x000000000000211a      0x12c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+                                        0x710 (size before relaxing)
+ .debug_str     0x0000000000002246      0x57c CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+                                        0xa86 (size before relaxing)
+ .debug_str     0x00000000000027c2      0x1c1 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+                                        0xa8e (size before relaxing)
+ .debug_str     0x0000000000002983       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_str     0x0000000000002a2b       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_str     0x0000000000002a2b       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_str     0x0000000000002a2b      0x142 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+                                        0x1de (size before relaxing)
+ .debug_str     0x0000000000002b6d       0xc5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x0000000000002c32      0x450 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-impure.o)
+                                        0x57c (size before relaxing)
+ .debug_str     0x0000000000003082       0x96 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+                                        0x200 (size before relaxing)
+ .debug_str     0x0000000000003118       0xa2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+                                        0x1b5 (size before relaxing)
+ .debug_str     0x00000000000031ba       0x3b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+                                        0x5b6 (size before relaxing)
+ .debug_str     0x00000000000031f5       0x92 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+                                        0x5e2 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xd74
+ .debug_frame   0x0000000000000000       0x30 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x0000000000000030       0x58 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000000000000088       0x28 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_frame   0x00000000000000b0       0xa8 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_frame   0x0000000000000158       0x40 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_frame   0x0000000000000198      0x360 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_frame   0x00000000000004f8      0x158 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_frame   0x0000000000000650       0xd0 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_frame   0x0000000000000720      0x2f4 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_frame   0x0000000000000a14      0x188 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_frame   0x0000000000000b9c       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000000be8       0x38 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000000c20       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x0000000000000c44       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000c64       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000c98       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000cc4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000cf0       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000d24       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)
+
+.debug_loc      0x0000000000000000     0x25df
+ .debug_loc     0x0000000000000000      0x21e CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_loc     0x000000000000021e      0x3fa CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_loc     0x0000000000000618      0x726 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_loc     0x0000000000000d3e      0x3c6 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_loc     0x0000000000001104      0x4df CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00000000000015e3      0x996 CMakeFiles/STM32H750XBH6_8_LCD_UI.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_loc     0x0000000000001f79       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000001fab       0x68 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000002013       0xba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-init.o)
+ .debug_loc     0x00000000000020cd      0x22c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-memset.o)
+ .debug_loc     0x00000000000022f9      0x138 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000002431      0x1ae /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v7e-m/nofp/libg.a(lib_a-__call_atexit.o)

@@ -1,0 +1,5 @@
+/home/augety/Downloads/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/augety/Downloads/clion-2023.2.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/augety/STM32_Project/test -B /home/augety/STM32_Project/test/cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/augety/STM32_Project/test/cmake-build-debug

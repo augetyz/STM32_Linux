@@ -1,0 +1,3 @@
+/home/augety/STM32_Project/untitled/cmake-build-debug/CMakeFiles/untitled.elf.dir
+/home/augety/STM32_Project/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/augety/STM32_Project/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
